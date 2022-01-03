@@ -1,0 +1,55 @@
+Dumping macros: __VERIWELL__
+TestBencher Pro simulation log created at Sat Dec 09 06:10:57 2017
+Beginning Compile
+Beginning Phase I
+Compiling source file: D:\exp 9\pipeline_test.v
+Compiling source file: D:\exp 9\Processor_CH.v
+Compiling source file: D:\exp 9\Instruction_memory.v
+Compiling source file: D:\exp 9\Exp9 module.v
+Compiling source file: D:\exp 9\Exp8 modules.v
+Compiling source file: D:\exp 9\Exp7 modules.v
+Compiling source file: D:\exp 9\Exp6 modules.v
+Compiling source file: D:\exp 9\Exp 3 REG32 and MUX32_1.v
+Compiling source file: D:\exp 9\Exp 3 Decoders and RegFile.v
+Compiling source file: D:\exp 9\Exp 2 FA and MUX8_1.v
+Compiling source file: D:\exp 9\Exp 2 ALUs.v
+Compiling source file: D:\exp 9\DataMem.v
+Compiling source file: D:\exp 9\ControlUnit.v
+Compiling source file: D:\exp 9\Library439.v
+Compiling source file: D:\exp 9\Exp9_Timing.v
+Compiling included source file 'C:\VLogger\syncad.v'
+Continuing compilation of source file 'D:\exp 9\Exp9_Timing.v'
+Finished Phase I
+Entering Phase II...
+Finished Phase II
+Entering Phase III...
+D:\exp 9\Exp8 modules.v: L37: warning: Port sizes don't match in port #2 (5 vs 5)
+D:\exp 9\Exp8 modules.v: L46: warning: Port sizes don't match in port #2 (5 vs 5)
+Finished Phase III
+Highest level modules:   test,    NAND3,    NAND4,    NOR3,    NOR4,    XOR4,    XNOR3,    XNOR4,    TFF,    LATCH,    TRI,    Exp9_Timing, 
+
+Finding handle to test.clk
+Finding handle to test.reset
+Finding handle to test.enable
+Finding handle to test.ProcessorCH.pcreg.Q
+Finding handle to test.ProcessorCH.IFIDreg.Q
+Finding handle to test.ProcessorCH.RF.r5.Q
+Finding handle to test.ProcessorCH.RF.r6.Q
+Finding handle to test.ProcessorCH.RF.r7.Q
+Finding handle to test.ProcessorCH.RF.r8.Q
+Finding handle to test.ProcessorCH.RF.r9.Q
+Finding handle to test.ProcessorCH.RF.r10.Q
+Finding handle to test.ProcessorCH.RF.r11.Q
+Finding handle to test.ProcessorCH.f1.ForwardA
+Finding handle to test.ProcessorCH.f1.ForwardB
+Finding handle to test.ProcessorCH.HDU.Flush
+Finding handle to test.ProcessorCH.HDU.pcsrc
+Finding handle to test.ProcessorCH.HDU.takenbranch
+Compile Complete
+.
+Running...
+Exiting TestBencher Pro at simulation time 0
+0 Errors, 2 Warnings
+Compile time = 0.01900, Load time = 0.31700, Execution time = 0.33000
+
+Normal exit

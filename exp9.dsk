@@ -1,0 +1,11 @@
+<!DOCTYPE Desktop SYSTEM "hdl-prj.dtd">
+<Desktop>
+  <ProjectWindow X="0" Y="0" W="700" H="367">
+    <Column>150</Column>
+    <Column>60</Column>
+    <Column>50</Column>
+    <Column>50</Column>
+  </ProjectWindow>
+  <SourceWindow X="277" Y="95" W="1183" H="435" File="Processor_CH.v" Line="137"></SourceWindow>
+  <SourceWindow X="113" Y="360" W="1194" H="455" File="Instruction_memory.v" Line="18"></SourceWindow>
+</Desktop>

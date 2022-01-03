@@ -1,0 +1,17 @@
+//Name:
+//ID:
+
+
+// No. Cycles (including reset)=_______________
+
+
+////////////////////////////////////////////////////////////////
+
+module HazardDetectionUnit(Flush, pcsrc, takenbranch);
+output Flush;
+input pcsrc, takenbranch;
+
+// implementation details are left to the student……
+
+
+endmodule
